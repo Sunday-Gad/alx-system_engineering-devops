@@ -1,1 +1,1 @@
-for 0x03-shell_variables_expansions task
+directory for project 0x03. Shell, init files, variables and expansions
